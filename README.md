@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
+    <style>
+      img {
+        width: auto;
+        height: 500px;
+      }
+    </style>
     <h1>Chat App</h1>
     <h2>@author Vu Anh Tuan</h2>
     <h3>Giao diện</h3>
