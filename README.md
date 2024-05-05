@@ -59,5 +59,15 @@
         />
       </li>
     </ul>
+    <h3>Tính năng</h3>
+    <ul>
+      <li>
+        sử dụng model ai để chặn thông báo có nội dung tin nhắn spam <br /><img
+          src="Images/feature.png"
+          alt="tính năng"
+          style="height: 300px; width: auto"
+        />
+      </li>
+    </ul>
   </body>
 </html>
